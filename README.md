@@ -1,2 +1,2 @@
 # siteresponsivo
-Sie responsivo com HTMLe CSS
+Sie responsivo com HTML e CSS
